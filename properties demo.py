@@ -1,6 +1,6 @@
 # Name:      Raster Properties Demo
 # Purpose:  To show how to retrieve properties from raster files.
-# Created:     3-24-2021
+# Created:     3-24-2023
 
 print ("Importing modules...")
 import arcpy, sys, traceback
