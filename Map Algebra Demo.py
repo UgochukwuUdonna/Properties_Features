@@ -1,6 +1,6 @@
 # Map Algebra Demo
 
-# Created by: Alyssa
+# Created by: Ugochukwu Udonna Okonkwo
 # Created on: 3-37-23
 
 print ("Importing modules...")
