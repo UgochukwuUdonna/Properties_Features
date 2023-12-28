@@ -1,6 +1,6 @@
 # Hillshade and Viewshed demos
 
-# Created by: Felipe Rivera
+# Created by: Ugochukwu Udonna Okonkwo
 # Created on: 3-22-2023
 
 print ("Importing modules...")
