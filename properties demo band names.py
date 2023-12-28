@@ -3,7 +3,7 @@
 #               This demo is similar to the Properties Demo script but in this
 #               script we are extracting the names of the bands in the raster
 #               files instead of manually typing their names.
-# Created:     3-24-2021
+# Created:     3-24-2023
 
 print ("Importing modules...")
 import arcpy, sys, traceback
